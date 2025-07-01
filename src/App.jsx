@@ -7,6 +7,7 @@ function App() {
     <>
       <Header />
       <CategoriesAndProducts />
+      <div></div>
     </>
   );
 }
