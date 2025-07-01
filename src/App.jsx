@@ -1,7 +1,6 @@
 import "./App.css";
-import Categories from "./components/Categories";
-import CategoriesAndProducts from "./components/CategoriesAndProducts";
-import Header from "./components/Header";
+import CategoriesAndProducts from "./components/CategoriesAndProducts.jsx";
+import Header from "./components/Header.jsx";
 
 function App() {
   return (
